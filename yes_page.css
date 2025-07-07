@@ -1,0 +1,30 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background: url('https://raw.githubusercontent.com/arkandhaf/Website-Testing/refs/heads/main/page2.jpg') no-repeat center center/cover;
+  font-family: 'Arial', sans-serif;
+  flex-direction: column;
+}
+
+.container {
+    text-align: center;
+}
+
+.header_text {
+    font-size: 3em;
+    color: #d32f2f;
+}
+
+.gif_container img {
+    width: 100%; 
+    max-width: 500px; 
+    height: auto; 
+}
+
+h2 {
+    font-size: 1em;
+    color: #d32f2f;
+  }

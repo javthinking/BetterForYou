@@ -24,6 +24,6 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     document.querySelector('.yes-button').addEventListener("click", function () {
-        window.location.href = "/HowDeepIsYourLove/yes_page.html";
+        window.location.href = "yes_page.html";;
     });
 });
